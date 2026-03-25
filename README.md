@@ -3,3 +3,4 @@
 3 - cavalo
 4 - domino
 5 - elefante
+6 - foca
